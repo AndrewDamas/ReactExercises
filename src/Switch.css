@@ -1,0 +1,18 @@
+.Switch {
+    text-align: center;
+    margin: 0 auto;
+    width: 135px;
+    height: 155px;
+    border: 3px solid black;
+    transform: translateY(50vh);
+    background-color: white;
+}
+
+.On {
+    background: blue;
+    color: white;
+}
+
+button {
+    margin-top: 3px;
+}
